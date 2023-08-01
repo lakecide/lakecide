@@ -41,7 +41,6 @@ I am a Information Security Engineer and also a DevOps Engineer <img src="https:
 
 - :zap: In my free time, I surf the internet and learn new things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://LinkedIn.com/in/Olalekan-Ajani)
 
 
 
